@@ -3,7 +3,14 @@ body{
 	background-image: url("../images/background.jpg");
 }
 table{
-	color: white;
+	color: orange;
+}
+h1{
+	color: yellow;
+	text-align: center;
+}
+td{
+	text-align: center;
 }
 img{
 	height: 250px;
