@@ -12,8 +12,17 @@ h1 {
 	font-family: arial;
 }
 
-jupiter{
+.jupiter {
 	color: blue;
+}
+.saturn {
+	color: green;
+}
+.uranus {
+	color: purple;
+}
+.neptune {
+	color: red;
 }
 td, th {
 	text-align: center;
