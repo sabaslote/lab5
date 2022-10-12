@@ -1,37 +1,37 @@
 body {
-	background-color: white;
-	background-image: url("../images/background.jpg");
+  background-color: white;
+  background-image: url("../images/background.jpg");
 }
 table{
-	table-layout: fixed;
+  table-layout: fixed;
 }
 h1 {
-	color: #FFFF00;
-	text-align: center;
-	font-weight: bold;
-	font-family: arial;
+  color: #FFFF00;
+  text-align: center;
+  font-weight: bold;
+  font-family: arial;
 }
 .jupiter {
-	color: blue;
+  color: blue;
 }
 .saturn {
-	color: green;
+  color: green;
 }
 .uranus {
-	color: purple;
+  color: purple;
 }
 .neptune {
-	color: red;
+  color: red;
 }
 td, th {
-	text-align: center;
-	font-family: arial;
-	color: #FFA500;
-	font-weight: bold;
-	font-size: 22px;
+  text-align: center;
+  font-family: arial;
+  color: #FFA500;
+  font-weight: bold;
+  font-size: 22px;
 }
 img {
-	height: 200px;
-	width: 300px;
+  height: 200px;
+  width: 300px;
 }
 
