@@ -1,18 +1,29 @@
-body{
-	background-color: black;
+body {
+	background-color: white;
 	background-image: url("../images/background.jpg");
 }
 table{
-	color: orange;
+	table-layout: fixed;
 }
-h1{
-	color: yellow;
+h1 {
+	color: #FFFF00;
 	text-align: center;
+	font-weight: bold;
+	font-family: arial;
 }
-td{
+
+jupiter{
+	color: blue;
+}
+td, th {
 	text-align: center;
+	font-family: arial;
+	color: #FFA500;
+	font-weight: bold;
+	font-size: 22px;
 }
-img{
-	height: 250px;
-	width: 350px;
+img {
+	height: 200px;
+	width: 300px;
 }
+
